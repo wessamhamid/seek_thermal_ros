@@ -5,6 +5,9 @@ This ROS package provides integration for Seek Thermal cameras into the Robot Op
 
 This ROS package is unofficial and in no way supported by Seek Thermal. The Python script `ros-seekcamera-opencv.py` in this package is modified from the original script available at [Seek Thermal](https://github.com/seekthermal/seekcamera-python/blob/main/examples/seekcamera-opencv.py) to work seamlessly with ROS. The modifications were made to adapt the script to ROS, and credit for the original script goes to its authors. We express our gratitude for their work.   
 
+![seek_rviz](https://github.com/wessamhamid/seek_thermal_ros/blob/main/docs/rviz_seek.png)
+
+
 ## Prerequisites
 Before using this package, you should have the following prerequisites installed on your system:
 - ROS (Robot Operating System)
